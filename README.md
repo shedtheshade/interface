@@ -36,5 +36,5 @@ MIT
 
 Checkout the [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) file for common issues.
 
-[![NextBase Boilerplate](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter/blob/main/.github/banner.png?raw=true)](https://usenextbase.com)
+ [Link To BoilerPlate](https://usenextbase.com)
 "# interface" 
