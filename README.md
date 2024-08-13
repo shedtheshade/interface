@@ -1,25 +1,7 @@
-# NextBase Starter
+# ShedTheShade Frontend
 
-![NextBase Lite Open Source Free Boilerplate](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter/blob/main/.github/litebanner.png?raw=true)
+ShedTheShade Dashboard is built with a simple Next.js 13 + Supabase boilerplate. It includes a Next.js 13 app with Typescript, Supabase and Tailwind CSS. It includes the all new `app` folder, `layout` components, React `server components` and more!
 
-Nextbase Lite is a simple Next.js 13 + Supabase boilerplate. It includes a Next.js 13 app with Typescript, Supabase and Tailwind CSS. It includes the all new `app` folder, `layout` components, React `server components` and more!
-
-## Features
-
-- 🚀 Next.js 13 with async components
-- 💻 Data fetching examples in React server and client components. Suspenseful data fetching with minimal loading screens.
-- ⚛️ React query setup configured
-- 🔥 React Hot Toast component
-- 💻 Fully typed with Typescript. Includes automatic type generation for Supabase tables
-- 🎨 Tailwindcss
-- 🧪 Unit testing and integration testing setups built-in
-- 💚 Eslint, typescript, prettier, postcss configured for dev and test environments
-- 📈 Automatic sitemap generation
-- 🔍 SEO metadata, JSON-LD and Open Graph tags with NEXT SEO
-- ✍️ Semantic release with Automatic changelog generation
-- 🎨 Prettier Code formatter
-- 💎 Minimal styling
-- 📖 Codebase which is easy to read and modify
 
 ### Development
 
@@ -53,10 +35,6 @@ MIT
 ### Troubleshooting
 
 Checkout the [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) file for common issues.
-
-## Premium NextBase Boilerplate
-
-Also checkout our premium boilerplate with more features. It includes a fully functional authentication system, user profiles, organisations, row level security, and more.
 
 [![NextBase Boilerplate](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter/blob/main/.github/banner.png?raw=true)](https://usenextbase.com)
 "# interface" 
